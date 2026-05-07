@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) pipeline that answers questions over a corpus of 75 AI/ML research papers from arXiv. The system compares two chunking strategies, three retrieval methods, and four prompt variants, then evaluates them with the RAGAS framework.
 
-> Course project — Team 5: Lam Tran, Mahima Goyal, Yining Mao
+> Course project — Team 5 associated with THE UNIVERSITY OF CHICAGO
 
 ## Overview
 
@@ -186,12 +186,4 @@ Proposed mitigations (also in the writeup): query rewriting + decomposition befo
 
 PyMuPDF · pdfplumber · LangChain text splitters · sentence-transformers · ChromaDB · rank_bm25 · OpenAI Python SDK · RAGAS · NumPy · pandas
 
-## Team
 
-- Lam Tran
-- Mahima Goyal
-- Yining Mao
-
-## License
-
-MIT — see [LICENSE](LICENSE).
